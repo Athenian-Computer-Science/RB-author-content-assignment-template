@@ -1,7 +1,7 @@
-from my_code import inc
+from my_code import function_name
 
 
-def test_inc():
-    assert 5 == inc(4)
-    assert 1 == inc(0)
-    assert 0 == inc(-1)
+def test_function_name():
+    assert result1 == function_name(param1)
+    assert result2 == function_name(param2)
+    assert result3 == function_name(param3)
