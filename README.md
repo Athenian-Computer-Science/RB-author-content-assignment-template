@@ -3,7 +3,7 @@
 This is a chance for you to write exercises for ReadingBat! If you're just starting your Python journey, stick with topics we've covered already. If you have studied Python before, feel free to write exercises for anything you want (in Python, of course).
 
 ## Notes
-* A template file (template.py) is included for you. Your exercise should have the same format.
+* A template file (RBtemplate.py) is included for you. Your exercise should have the same format. Feel free to copy and paste from the template into my_code.py
 * The first line (@some text) is called a decorator. Use that to put a short description for the end user.
   * Yes, you need the comment symbol in front of it.
 * You will have 2 functions to write.
